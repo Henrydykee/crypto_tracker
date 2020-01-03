@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CryptoWallet</string>
+    <string name="skip">Skip</string>
+    <string name="get_info_of_all_your_cryptocurrencies_on_one_device">Get info of all your cryptocurrencies on one device</string>
+    <string name="your_can_also_monitor_your_wallets">Your can also Monitor your wallets</string>
+    <string name="monitor_the_rise_and_fall_cryptocurrencies_from_your_finger_tips">Monitor the Rise and Fall Cryptocurrencies from your finger tips</string>
+    <string name="powered_by_android">Powered by Android</string>
+    <string name="todo">TODO</string>
+</resources>
